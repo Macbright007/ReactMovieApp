@@ -9,3 +9,7 @@ this is a simple movie search app using TMDB API call to fetch and display any m
 - react hooke
 -map
 - filter
+
+
+/* url_link to the app */
+https://tmdmovieapp.herokuapp.com/
